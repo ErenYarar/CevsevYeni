@@ -1,7 +1,6 @@
 # cevsev
 
 ![(1)Telefon](https://user-images.githubusercontent.com/41026127/82121757-1583be00-9798-11ea-8b90-1909eb8ff68d.PNG)
-![(4)SplashScreenResim](https://user-images.githubusercontent.com/41026127/82122572-3c90be80-979d-11ea-808
 ![(18 1)harita2](https://user-images.githubusercontent.com/41026127/82122590-42869f80-979d-11ea-9b03-eaf01c338254.PNG)
 ![(21 3)etkinlik4](https://user-images.githubusercontent.com/41026127/82122591-431f3600-979d-11ea-8a9a-3d6dacc3ce4d.PNG)
 ![(19)kamera etkinlik](https://user-images.githubusercontent.com/41026127/82122592-44e8f980-979d-11ea-837e-e224529310b9.PNG)
